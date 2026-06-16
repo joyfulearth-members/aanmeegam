@@ -7,8 +7,8 @@ footer-message	AanmeegaUllagam
 siteMenuName	Aanmeegam
 mediakit	?paler=E4FFFE
 sections	ullagam, theagoo, elitebricks
-local-url	http://localhost/aanmeegam/
-live-url	https://amadeusweb.world/aanmeegam/
+local-url	http://localhost/others/aztras/aanmeegam/
+live-url	https://aanmeegam.aztras.joyfulearth.org/
 showIn	networks
 year	2026
-github-repo	amadeus-web-members/aanmeegam
+github-repo	joyfulearth-members/aanmeegam
